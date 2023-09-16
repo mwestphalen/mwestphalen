@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Welcome to My GitHub Profile 👋
 
 <!--
 **mwestphalen/mwestphalen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on investigating the software vulnerabilities stemming from AI-generated code from ChatGPT.
+- 🌱 I’m currently learning about the technology, architecture, and software used by systems of network-connected computers.
+- 📫 How to reach me: [mkwestphalen@gmail.com](mkwestphalen@gmail.com)
+
+Thanks for visiting!
+
