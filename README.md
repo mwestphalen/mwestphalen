@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on investigating the software vulnerabilities stemming from AI-generated code from ChatGPT.
-- 🌱 I’m currently learning about the technology, architecture, and software used by systems of network-connected computers.
+- 🌱 I’m currently learning about key concepts and applications of artificial intelligence, as well as common programming frameworks and libraries for solving AI problems.
 - 📫 How to reach me: [mkwestphalen@gmail.com](mkwestphalen@gmail.com)
 
 Thanks for visiting!
