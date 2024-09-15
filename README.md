@@ -1,4 +1,4 @@
-### Olá! Welcome to My GitHub Profile 👋
+### Hey, welcome to My GitHub Profile 👋
 
 <!--
 **mwestphalen/mwestphalen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
