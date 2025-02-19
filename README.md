@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on investigating the software vulnerabilities stemming from AI-generated code from ChatGPT.
+- 🔭 I’m currently working on AI research, open-source development, and exploring the impact of LLMs!
 - 🌱 I’m currently learning about key concepts and applications of artificial intelligence, as well as common programming frameworks and libraries for solving AI problems.
+- 🤔 I’m looking for help with getting into algorithmic art.
 - 📫 How to reach me: [mkwestphalen@gmail.com](mkwestphalen@gmail.com)
 
 Thanks for visiting!
